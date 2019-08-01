@@ -1,6 +1,6 @@
 #!/bin/sh
 
-propogationtime=360
+propogationtime=3600
 
 minutes=(($propogationtime/60))
 
